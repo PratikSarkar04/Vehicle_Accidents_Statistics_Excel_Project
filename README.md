@@ -12,3 +12,14 @@
 
 6. The United Nations General Assembly has set an ambitious target of halving the global number of deaths and injuries from road traffic crashes by 2030 (A/RES/74/299).
 
+Importance of Analysis of Accident Deaths :
+
+1. Identifying High-Risk Areas and Causes - Pinpoints high-risk locations and causes to guide targeted safety improvements.
+
+2. Improving Road Safety Policies - Informs policies that reduce accident rates and save lives.
+
+3. Optimizing Emergency Response Systems - Helps allocate emergency resources to minimize response times.
+
+4. Reducing Economic Costs - Lowers healthcare and societal costs associated with accidents.
+
+5. Understanding Demographic Vulnerabilities - Identifies at-risk populations to tailor protection strategies.
